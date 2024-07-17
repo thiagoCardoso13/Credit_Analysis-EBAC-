@@ -1,1 +1,2 @@
 # Credit_Analysis-EBAC-
+This notebook presents the credit analysis of customers from a fictional database, developed by Professor André Perez from EBAC. Granting credit is a complex process that involves multiple variables, making it crucial to define an efficient strategy to segment customers, avoiding both the loss of potential good payers and the increase in default rates. In this notebook, data processing steps are carried out, including cleaning, feature engineering, and visualization of the database variables.
